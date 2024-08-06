@@ -1,0 +1,22 @@
+.tab-container {
+  width: 50%;
+  margin: auto;
+  padding: 15px;
+}
+
+.root-container {
+  text-align: center;
+}
+
+.login-input {
+  margin: '5% 0 7%';
+}
+
+.success-note {
+  border: 1px solid green;
+  color: green;
+  font-size: 12px;
+  margin: 5% auto 0;
+  padding: 2%;
+  width: 80%;
+}
